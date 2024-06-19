@@ -1,0 +1,9 @@
+.p1{
+    width: 600px;
+}.h1{
+    width: 600px;
+}.div1{
+    display: grid;
+    place-items: center;
+  
+}
